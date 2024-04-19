@@ -1,4 +1,4 @@
-# **Intuition**
+[# **Intuition**
 <!-- Describe your first thoughts on how to solve this problem. -->
 
 # Approach
@@ -28,3 +28,4 @@ const twoSum = (nums, target) => {
 let result = twoSum([2,7,11,15], 9)
 console.log(result)
 ```
+](https://leetcode.com/problems/two-sum/solutions/5046253/twosum)
